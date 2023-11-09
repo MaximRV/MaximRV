@@ -20,11 +20,11 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h1>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to backend for building programs.
 
 - :seedling: Exploring Technical Content Writing.
   
-- :zap: read tech articles.
+- :zap: Read tech articles.
   
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-MaximRV-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url).
 <!--
