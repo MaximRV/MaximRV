@@ -39,7 +39,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaximRV&theme=blue-navy)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaximRV&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 
