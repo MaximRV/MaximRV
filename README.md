@@ -14,7 +14,10 @@
   <img src="https://media.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.GIF" width="30px"/>
   </h1>
 </div>
-:man_technologist: About Me :
+
+---
+
+###:man_technologist: About Me :
 <h1>
   I am a Python Developer 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
