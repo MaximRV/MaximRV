@@ -8,12 +8,11 @@
    </a>
 </div>
 <div id="badges" align="center">
-  <img
-    <h1>
+  <img src="https://komarev.com/ghpvc/?username=MaximRV&style=flat-square&color=blue" alt=""/>
+   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-    src="https://komarev.com/ghpvc/?username=MaximRV&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **MaximRV/MaximRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
