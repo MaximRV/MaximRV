@@ -34,6 +34,10 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+
+---
+
+### :fire: My Stats :
 <!--
 **MaximRV/MaximRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
