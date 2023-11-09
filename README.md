@@ -22,7 +22,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: I
+- :zap: read tech articles
 <!--
 **MaximRV/MaximRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
