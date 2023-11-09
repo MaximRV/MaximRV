@@ -23,6 +23,8 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: read tech articles
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 <!--
 **MaximRV/MaximRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
