@@ -10,7 +10,7 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=MaximRV&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi, I'm MaximRV
+  Hi, I'm Maxim
   <img src="https://media.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.GIF" width="30px"/>
   </h1>
 </div>
