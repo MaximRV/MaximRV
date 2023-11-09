@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=MaximRV&style=flat-square&color=blue" alt=""/>
   <h1>
   Hi, I'm MaximRV
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpkeDR0dzR1YnpqbHA4dW1mZnpqbzF3cXQ5bTR4emE2MzE2YXVwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.gif" width="30px"/>
   </h1>
 </div>
 :man_technologist: About Me :
