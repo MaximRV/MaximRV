@@ -28,6 +28,8 @@
   
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-MaximRV-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url).
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <!--
 **MaximRV/MaximRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
