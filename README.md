@@ -1,12 +1,16 @@
 <div id="header" align="center">
   <img src=https://media.giphy.com/media/LPHXhtsmZFlW6txqmH/giphy.gif width="100"/>
 </div>
+
+
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- <a href="https://t.me/R_Maxim_V">
+ <a href="https://t.me/MaximRV3">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM Badge"/>
    </a>
 </div>
+
+
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=MaximRV&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -21,6 +25,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h1>
 
+
 - :telescope: I’m working as a Software Engineer and contributing to backend for building programs.
 
 - :seedling: Exploring Technical Content Writing.
@@ -29,11 +34,13 @@
   
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-MaximRV-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url).
 
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+
 
 ---
 
