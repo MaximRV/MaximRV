@@ -41,7 +41,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaximRV&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximRV)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=MaximRV)
+![Codewars](https://github.r2v.ch/codewars?user=MaximRV&hide_clan=true)
 <!--
 **MaximRV/MaximRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
