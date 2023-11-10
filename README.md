@@ -32,7 +32,7 @@
   
 - :zap: Read tech articles.
   
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-MaximRV-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url).
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-MaximRV-blue?style=flat&logo=Telegram&logoColor=white)](MaximRV3).
 
 
 ---
