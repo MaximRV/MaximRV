@@ -40,7 +40,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
-![](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=MYSQL&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ---
