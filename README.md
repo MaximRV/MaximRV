@@ -32,8 +32,7 @@
   
 - :zap: В свободное время решаю различные задачки на Python, читаю учебную литературу, пишу программы.
   
-- :mailbox:Контакты для связи: [![Telegram Badge](https://img.shields.io/badge/-MaximRV-blue?style=flat&logo=Telegram&logoColor=white)](MaximRV3).
-
+- :mailbox:Контакты для связи: [![Telegram Badge](https://img.shields.io/badge/Максим_Рындин-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MaximRV3).
 
 ---
 
@@ -47,11 +46,13 @@
 
 ### :fire: Статистика :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MaximRV&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)]
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaximRV&theme=halloween&locale=ru)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximRV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=MaximRV&top_languages=true)
+
+
+
 <!--
 **MaximRV/MaximRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
