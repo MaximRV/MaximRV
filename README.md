@@ -4,7 +4,7 @@
 
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ # <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  <a href="https://t.me/MaximRV3">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM Badge"/>
    </a>
@@ -32,12 +32,12 @@
   
 - :zap: В свободное время решаю различные задачки на Python, читаю учебную литературу, пишу программы.
   
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-MaximRV-blue?style=flat&logo=Telegram&logoColor=white)](MaximRV3).
+- :mailbox:Контакты для связи: [![Telegram Badge](https://img.shields.io/badge/-MaximRV-blue?style=flat&logo=Telegram&logoColor=white)](MaximRV3).
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты :
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,7 +45,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Статистика :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaximRV&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)]
 
