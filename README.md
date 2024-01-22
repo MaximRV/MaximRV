@@ -14,23 +14,23 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=MaximRV&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi, I'm Maxim
+  Привет! Меня зовут Максим!
   <img src="https://media.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.GIF" width="30px"/>
   </h1>
 </div>
 
 :man_technologist: About Me :
 <h1>
-  I am a Python Developer 
+  Я Python-разработчик 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h1>
 
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building programs.
+- :telescope: Трансформирую идеи в код и вношу свой вклад в бэкенд для создания программ.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Изучаю написания технического контента.
   
-- :zap: Read tech articles.
+- :zap: В свободное время решаю различные задачки на Python, читаю учебную литературу, пишу программы.
   
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-MaximRV-blue?style=flat&logo=Telegram&logoColor=white)](MaximRV3).
 
