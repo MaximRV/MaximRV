@@ -19,14 +19,14 @@
   </h1>
 </div>
 
-:man_technologist: About Me :
+:man_technologist: Немного обо мне :
 <h1>
-  Я Python-разработчик 
+  Python-разработчик 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h1>
 
 
-- :telescope: Трансформирую идеи в код и вношу свой вклад в бэкенд для создания программ.
+- :telescope: Трансформирую идеи в код и вношу свой вклад в цифровой мир.
 
 - :seedling: Изучаю написания технического контента.
   
