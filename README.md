@@ -40,6 +40,7 @@
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![FastApi](https://img.shields.io/badge/fastapi-%2400f.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 ---
