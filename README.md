@@ -39,9 +39,9 @@
 ### :hammer_and_wrench: Языки и инструменты :
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastApi](https://img.shields.io/badge/fastapi-%2400f.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
+![Alembic](https://img.shields.io/badge/alembic-%3000f.svg?style=for-the-badge&logo=alembic&logoColor=black)
 
 ---
 
